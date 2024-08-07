@@ -1,0 +1,14 @@
+C:\Users\sm2239\source\repos\ExponentsPowertable\ExponentsPowertable\obj\Debug\net8.0\ExponentsPowertable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sm2239\source\repos\ExponentsPowertable\ExponentsPowertable\obj\Debug\net8.0\ExponentsPowertable.AssemblyInfoInputs.cache
+C:\Users\sm2239\source\repos\ExponentsPowertable\ExponentsPowertable\obj\Debug\net8.0\ExponentsPowertable.AssemblyInfo.cs
+C:\Users\sm2239\source\repos\ExponentsPowertable\ExponentsPowertable\obj\Debug\net8.0\ExponentsPowertable.csproj.CoreCompileInputs.cache
+C:\Users\sm2239\source\repos\ExponentsPowertable\ExponentsPowertable\bin\Debug\net8.0\ExponentsPowertable.exe
+C:\Users\sm2239\source\repos\ExponentsPowertable\ExponentsPowertable\bin\Debug\net8.0\ExponentsPowertable.deps.json
+C:\Users\sm2239\source\repos\ExponentsPowertable\ExponentsPowertable\bin\Debug\net8.0\ExponentsPowertable.runtimeconfig.json
+C:\Users\sm2239\source\repos\ExponentsPowertable\ExponentsPowertable\bin\Debug\net8.0\ExponentsPowertable.dll
+C:\Users\sm2239\source\repos\ExponentsPowertable\ExponentsPowertable\bin\Debug\net8.0\ExponentsPowertable.pdb
+C:\Users\sm2239\source\repos\ExponentsPowertable\ExponentsPowertable\obj\Debug\net8.0\ExponentsPowertable.dll
+C:\Users\sm2239\source\repos\ExponentsPowertable\ExponentsPowertable\obj\Debug\net8.0\refint\ExponentsPowertable.dll
+C:\Users\sm2239\source\repos\ExponentsPowertable\ExponentsPowertable\obj\Debug\net8.0\ExponentsPowertable.pdb
+C:\Users\sm2239\source\repos\ExponentsPowertable\ExponentsPowertable\obj\Debug\net8.0\ExponentsPowertable.genruntimeconfig.cache
+C:\Users\sm2239\source\repos\ExponentsPowertable\ExponentsPowertable\obj\Debug\net8.0\ref\ExponentsPowertable.dll
